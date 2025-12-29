@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTlkYjQ0NGM0NWZjNDg3N2NjM2ZjNDViYzE5Zjc5YjM5NjY0ZGNkMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1QHUR4lyFe/giphy.gif" width="600" alt="Sufiandy Elmy Coding Animation">
+  <img src="https://media.giphy.com/media/qgQUggAC3PfvGTJAXb/giphy.gif" width="600" alt="Sufiandy Elmy Coding Animation">
 
   # SUFIANDY ELMY
   ### **Software Engineer - iOS**
@@ -34,28 +34,19 @@ I am a **Software Engineer** specializing in the **iOS ecosystem** with over **5
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=swift,apple,git,github,githubactions,docker,firebase,aws,go,python,typescript,react,nextjs&perline=7" />
+  <img src="https://skillicons.dev/icons?i=swift,apple,git,github,githubactions,docker,firebase,aws,go,python,typescript,react,nextjs&perline=7" alt="Tech Stack" />
 </p>
 
 ---
 
 ## Engineering Metrics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elmeeee&show_icons=true&theme=material-palenight" height="180px" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elmeeee&layout=compact&theme=material-palenight" height="180px" alt="Top Languages" />
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elmeeee&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=elmeeee&theme=material-palenight" width="100%" alt="GitHub Streak" />
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elmeeee&layout=compact&theme=tokyonight&hide_border=true)
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=elmeeee&theme=flat&no-bg=true" alt="Trophies" />
-</div>
+![GitHub Streak](https://streak-stats.demolab.com/?user=elmeeee&theme=tokyonight&hide_border=true)
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elmeeee&theme=monokai" width="100%" alt="Profile Summary" />
-</div>
+![Trophies](https://github-profile-trophy.vercel.app/?username=elmeeee&theme=tokyonight&no-bg=true)
 
 <br>
