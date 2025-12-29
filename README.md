@@ -35,5 +35,3 @@ I am a **Software Engineer** specializing in the **Apple ecosystem** with over *
 <p align="center">
   <img src="https://skillicons.dev/icons?i=swift,apple,git,github,githubactions,docker,firebase,aws,go,python,typescript,do,react,nextjs&perline=7" alt="Tech Stack" />
 </p>
-
-<br>
