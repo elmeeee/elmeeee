@@ -1,8 +1,8 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/elmeeee/elmeeee/main/coding.gif" width="600" alt="Sufiandy Elmy">
 
-  #  SUFIANDY ELMY
-  ### **iOS Software Engineer**
+  # SUFIANDY ELMY
+  ### **Software Engineer - ios**
   **Jakarta, Indonesia**
 
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/elmysf)
@@ -20,30 +20,26 @@
   *“Architecting high-performance mobile ecosystems. Engineering for millions. Specialist in iOS, Clean Architecture, and End-to-End Product Delivery.”*
 </div>
 
-##  About Me
+## About Me
 
 I am a **Software Engineer** specializing in the **iOS ecosystem** with over **5 years** of professional experience. I have a proven track record of shipping scale products to millions of active users worldwide.
 
-*   🏆 **WWDC 2021** Swift Student Challenge Winner.
-*   🎓 **Apple Developer Academy** Alumnus.
-*   📱 **Core Contributor:** MyTelkomsel, Titipku, Soothe Senses, Qalbu, and Saldoo.
-*   🚀 **Architect:** Led greenfield developments and modular architecture migrations.
+*   **WWDC 2021** Swift Student Challenge Winner.
+*   **Apple Developer Academy** Alumnus.
+*   **Core Contributor:** MyTelkomsel, Titipku, Soothe Senses, Qalbu, and Saldoo.
+*   **Architect:** Led greenfield developments and modular architecture migrations.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=swift,apple,git,github,githubactions,docker,firebase,aws,go,python,react,nextjs&perline=6" />
 </p>
 
-<div align="center">
-  <sub>**Specialties:** MVVM, RIBs, Clean Architecture, CI/CD, Performance Optimization, TDD</sub>
-</div>
-
 ---
 
-## 📊 Engineering Metrics
+## Engineering Metrics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=elmeeee&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180px" />
@@ -63,7 +59,3 @@ I am a **Software Engineer** specializing in the **iOS ecosystem** with over **5
 </p>
 
 <br>
-
-<div align="center">
-  <sub>Built for the future. Engineered with ❤️ by Sufiandy Elmy</sub>
-</div>
