@@ -34,7 +34,7 @@ I am a **Software Engineer** specializing in the **iOS ecosystem** with over **5
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=swift,apple,git,github,githubactions,docker,firebase,aws,go,python,typescript,react,nextjs&perline=7" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=swift,apple,git,github,githubactions,docker,firebase,aws,go,python,typescript,do,react,nextjs&perline=7" alt="Tech Stack" />
 </p>
 
 ---
