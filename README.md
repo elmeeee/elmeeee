@@ -47,15 +47,6 @@ I am a **Software Engineer** specializing in the **Apple ecosystem** with over *
 </p>
 
 <p align="center">
-  <img width="49%" src="https://streak-stats.demolab.com/?user=elmeeee&theme=algolia&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/wakatime?username=elmeeee&theme=algolia&hide_border=true&layout=compact" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elmeeee&theme=algolia" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=elmeeee&theme=react-dark&hide_border=true&area=true" />
 </p>
 
