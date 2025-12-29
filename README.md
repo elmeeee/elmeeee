@@ -1,58 +1,82 @@
-# Hi there, I'm Elmee 👋  
-**Product Development Engineer | iOS Specialist | WWDC21 Winner**  
-[Website](https://www.pasdiaku.com) • [LinkedIn](https://www.linkedin.com/in/sufiandyelmy/) • [Twitter](https://twitter.com/Elmysf__) • [GitHub](https://github.com/elmysf)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/elmeeee/elmeeee/main/coding.gif" width="600" alt="Coding GIF">
 
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=elmysf.elmysf)
+  #  SUFIANDY ELMY
+  ### **Software Engineer — iOS**
+  **Jakarta, Indonesia**
 
----
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/elmysf)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elmysufiandy@gmail.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/elmeeee)
 
-## 👨‍💻 About Me
+  ---
 
-Hi, I'm **Sufiandy Elmy** — but you can call me **Elmee**.  
-I'm a passionate **Product Development Engineer** with a strong iOS background and 4+ years of experience building mobile products that are fast, scalable, and user-friendly.
+  *“Building high-performance, scalable mobile products for millions of users with a passion for clean architecture and premium UI/UX.”*
+</div>
 
-I’ve contributed to apps like **MyTelkomsel**, **Titipku**, **Qalbu**, **SootheSenses**, and **Saldoo**, working across design systems, architecture, and product iteration.
+## 🚀 About Me
 
-I’m currently focused on:
-- 🧱 Building fintech solutions with **SwiftUI**, **Combine**, and **UIKit**
-- 🧠 Improving app performance, crash rates, and clean architecture (MVVM)
-- 🛠️ Integrating tools like **Firebase**, **Mixpanel**, **Bitrise**, and **CI/CD**
-- 🤝 Driving team collaboration and fast iterations with agile practices
+I am a **Software Engineer - iOS** with **5+ years** of experience. I specialize in building robust, user-centric applications using **SwiftUI**, **UIKit**, and **Clean Architecture**.
 
----
-
-## 🚀 Highlights
-
-- 🧑‍💻 Built and shipped fintech products like **EWA** and **billing systems** from scratch  
-- 📱 Published & maintained apps on the **App Store** with real active users  
-- 🏆 Winner of **WWDC21 Swift Student Challenge** by Apple  
-- ⚙️ Set up automated deployment pipelines using **Xcode Cloud**, **Fastlane**, and **Bitrise**
+- 🏆 **Apple WWDC 2021 Swift Student Challenge Winner**
+- 🎓 **Apple Developer Academy Indonesia Alumni**
+- 📱 Core contributor to **MyTelkomsel** (Shop, Video, SSO) & **Titipku** (Architected from scratch).
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages & Frameworks**  
-`Swift` • `SwiftUI` • `UIKit` • `Combine` • `RxSwift` • `SnapKit` • `Go` • `C++` • `Python` • `React` • `Next.js`
+### 📱 iOS Development
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-1572B6?style=flat-square&logo=swift&logoColor=white)
+![UIKit](https://img.shields.io/badge/UIKit-007AFF?style=flat-square&logo=apple&logoColor=white)
+![Combine](https://img.shields.io/badge/Combine-FFAC45?style=flat-square&logo=apple&logoColor=white)
+![RxSwift](https://img.shields.io/badge/RxSwift-B7178C?style=flat-square&logo=reactivex&logoColor=white)
 
-**Tools & Platforms**  
-`Xcode` • `Firebase` • `Mixpanel` • `Fastlane` • `Bitrise` • `Xcode Cloud` • `Figma` • `Jira` • `Confluence`
-
-**Architecture & Practices**  
-`MVVM` • `Clean Architecture` • `CI/CD` • `Agile` • `TestFlight` • `App Store Connect` • `AWS` • `Huawei`
-
----
-
-## 📈 GitHub Stats
-
-![Elmee's GitHub Stats](https://github-readme-stats.vercel.app/api?username=elmysf&show_icons=true&theme=tokyonight&hide=prs)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elmysf&layout=compact&theme=tokyonight)
+### ⚙️ Backend & Infrastructure
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
 ---
 
-## 📫 Let’s Connect
+## 🎖️ Certifications
+- **AWS re/Start Graduate** (2024)
+- **Apple Search Ads Certified** (2024)
+- **Google Project Management** (2023)
 
-Open for collaboration, freelance work, or just chatting about product, code, or ideas.  
-📬 **elmysufiandy@gmail.com**  
+---
 
-> *“Code has the power to change lives. Let’s build something meaningful.”*
+## 💼 Experience Highlights
+
+- **Mitra Natha Solution** | *Product Development Engineer*
+  - Launched greenfield EWA iOS platform in 30 days. Reduced time-to-market by 60%.
+- **Meditation LLC** | *Freelance Full-Stack Engineer*
+  - Architected and published *Soothe Senses* (SwiftUI + Combine).
+- **Phincon** | *Consultant - iOS Developer*
+  - Developed critical features for **MyTelkomsel** serving millions of users.
+- **Titipku** | *Software Engineer - iOS*
+  - Architected the entire app from scratch and maintained a 98% crash-free rate.
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=elmeeee&show_icons=true&theme=tokyonight&hide_border=true" alt="Elmeeee's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elmeeee&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+</p>
+
+---
+
+## 📫 Let's Connect!
+
+- 📧 **Email**: [elmysufiandy@gmail.com](mailto:elmysufiandy@gmail.com)
+- 💼 **LinkedIn**: [in/elmysf](https://linkedin.com/in/elmysf)
+- 📞 **WhatsApp**: [+62 (823) 8654-7032](https://wa.me/6282386547032)
+
+<div align="center">
+  <sub>Built with ❤️ by Sufiandy Elmy</sub>
+</div>
