@@ -22,7 +22,7 @@
 
 ## About Me
 
-I am a **Software Engineer** specializing in the **iOS ecosystem** with over **5 years** of professional experience. I have a proven track record of shipping scale products to millions of active users worldwide.
+I am a **Software Engineer** specializing in the **Apple ecosystem** with over **5 years** of professional experience. I have a proven track record of shipping scale products to millions of active users worldwide.
 
 *   **WWDC 2021** Swift Student Challenge Winner.
 *   **Apple Developer Academy** Alumnus.
