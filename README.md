@@ -41,12 +41,12 @@ I am a **Software Engineer** specializing in the **iOS ecosystem** with over **5
 
 ## Engineering Metrics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elmeeee&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elmeeee&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=elmeeee&theme=tokyonight&hide_border=true)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=elmeeee&theme=tokyonight&no-bg=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=elmeeee&show_icons=true&theme=dark" alt="Stats" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elmeeee&layout=compact&theme=dark" alt="Languages" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elmeeee&theme=dark" alt="Streak" />
+</div>
 
 <br>
