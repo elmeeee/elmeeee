@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/elmeeee/elmeeee/main/coding.gif" width="600" alt="Sufiandy Elmy">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTlkYjQ0NGM0NWZjNDg3N2NjM2ZjNDViYzE5Zjc5YjM5NjY0ZGNkMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1QHUR4lyFe/giphy.gif" width="600" alt="Sufiandy Elmy Coding Animation">
 
   # SUFIANDY ELMY
   ### **Software Engineer - iOS**
