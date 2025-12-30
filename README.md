@@ -15,12 +15,12 @@
 
   ---
 
-  *"Architecting high-performance mobile ecosystems. Engineering for millions. Specialist in iOS, Clean Architecture, and End-to-End Product Delivery."*
+  *"Architecting high-performance mobile ecosystems. Specialist in iOS, Clean Architecture, and End-to-End Product Delivery."*
 </div>
 
 ## About Me
 
-I am a **Software Engineer** specializing in the **Apple ecosystem** with over **5 years** of professional experience. I have a proven track record of shipping scale products to millions of active users worldwide.
+I am a **Software Engineer** specializing in the **Apple ecosystem** with over **5 years** of professional experience. I have a proven track record of shipping scale products to millions of active users.
 
 *   **WWDC 2021** Swift Student Challenge Winner.
 *   **Apple Developer Academy** Alumnus.
@@ -32,15 +32,15 @@ I am a **Software Engineer** specializing in the **Apple ecosystem** with over *
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=swift,apple,git,github,githubactions,docker,firebase,aws,go,python,typescript,do,react,nextjs&perline=7" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=swift,apple,git,github,githubactions,docker,firebase,aws,go,python,typescript,digitalOcean,react,nextjs&perline=7" alt="Tech Stack" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=elmeeee" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=elmeeee&theme=dark" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elmeeee&show_icons=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=elmeeee&show_icons=true&count_private=true&include_all_commits=true&theme=dark" alt="GitHub Stats" />
 </p>
