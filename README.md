@@ -4,10 +4,13 @@
   # SUFIANDY ELMY
   ### **Software Engineer - iOS**
 
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/elmysf)
-  [![Email](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elmysufiandy@gmail.com)
-  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/elmeeee)
 
+  <a href="https://linkedin.com/in/elmysf" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+  </a>
+  <a href="mailto:elmysufiandy@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+  </a>
   <br>
 
   ![Visitor Count](https://komarev.com/ghpvc/?username=elmeeee&label=PROFILE+VIEWS&color=0e76a8&style=flat-square)
