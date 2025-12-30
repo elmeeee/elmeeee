@@ -15,12 +15,12 @@
 
   ---
 
-  *"Architecting high-performance mobile ecosystems. Specialist in iOS, Clean Architecture, and End-to-End Product Delivery."*
+  *"Architecting high-performance mobile ecosystems. Engineering for millions. Specialist in iOS, Clean Architecture, and End-to-End Product Delivery."*
 </div>
 
 ## About Me
 
-I am a **Software Engineer** specializing in the **Apple ecosystem** with over **5 years** of professional experience. I have a proven track record of shipping scale products to millions of active users.
+I am a **Software Engineer** specializing in the **Apple ecosystem** with over **5 years** of professional experience. I have a proven track record of shipping scale products to millions of active users worldwide.
 
 *   **WWDC 2021** Swift Student Challenge Winner.
 *   **Apple Developer Academy** Alumnus.
@@ -38,9 +38,9 @@ I am a **Software Engineer** specializing in the **Apple ecosystem** with over *
 ---
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=elmeeee&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elmeeee&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elmeeee&show_icons=true&count_private=true&include_all_commits=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=elmeeee&show_icons=true&count_private=true&include_all_commits=true&theme=dark&hide_border=true" alt="GitHub Stats" />
 </p>
