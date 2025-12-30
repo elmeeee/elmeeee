@@ -11,10 +11,11 @@
   <a href="mailto:elmysufiandy@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
   </a>
-  <br>
+  
+  <br><br>
+  
+  <img src="https://komarev.com/ghpvc/?username=elmeeee&label=Profile%20Views&color=0e76a8&style=for-the-badge" alt="Profile Views" />
 
-  ![Visitor Count](https://komarev.com/ghpvc/?username=elmeeee&label=PROFILE+VIEWS&color=0e76a8&style=flat-square)
-  ![GitHub Followers](https://img.shields.io/github/followers/elmeeee?label=FOLLOWERS&style=flat-square&color=0e76a8)
 
   ---
 
