@@ -3,7 +3,6 @@
 
   # SUFIANDY ELMY
   ### **Software Engineer - iOS**
-  **Jakarta, Indonesia**
 
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/elmysf)
   [![Email](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elmysufiandy@gmail.com)
@@ -35,3 +34,11 @@ I am a **Software Engineer** specializing in the **Apple ecosystem** with over *
 <p align="center">
   <img src="https://skillicons.dev/icons?i=swift,apple,git,github,githubactions,docker,firebase,aws,go,python,typescript,do,react,nextjs&perline=7" alt="Tech Stack" />
 </p>
+
+---
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elmeeee&show_icons=true&locale=en&layout=compact" alt="elmeeee" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elmeeee&show_icons=true&locale=en" alt="elmeeee" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elmeeee&" alt="elmeeee" /></p>
