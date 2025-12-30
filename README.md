@@ -15,12 +15,12 @@
 
   ---
 
-  *"Architecting high-performance mobile ecosystems. Engineering for millions. Specialist in iOS, Clean Architecture, and End-to-End Product Delivery."*
+  *"Architecting high-performance mobile ecosystems. Specialist in iOS, Clean Architecture, and End-to-End Product Delivery."*
 </div>
 
 ## About Me
 
-I am a **Software Engineer** specializing in the **Apple ecosystem** with over **5 years** of professional experience. I have a proven track record of shipping scale products to millions of active users worldwide.
+I am a **Software Engineer** specializing in the **Apple ecosystem** with over **5 years** of professional experience. I have a proven track record of shipping scale products to millions of active users.
 
 *   **WWDC 2021** Swift Student Challenge Winner.
 *   **Apple Developer Academy** Alumnus.
