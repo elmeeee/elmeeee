@@ -32,15 +32,7 @@ I am a **Software Engineer** specializing in the **Apple ecosystem** with over *
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=swift,apple,git,github,githubactions,docker,firebase,aws,go,python,typescript,digitalOcean,react,nextjs&perline=7" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=swift,apple,git,github,githubactions,docker,firebase,aws,go,python,typescript,digitalocean,react,nextjs&perline=7" alt="Tech Stack" />
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elmeeee&theme=dark" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elmeeee&theme=dark&show_icons=true" alt="GitHub Stats" />
-</p>
