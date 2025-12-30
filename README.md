@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600" alt="Sufiandy Elmy Coding Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=0E76A8&center=true&vCenter=true&width=600&lines=Welcome+to+my+Profile!+%F0%9F%91%8B;iOS+Software+Engineer;WWDC+2021+Winner+%F0%9F%8F%86;Building+for+Millions+of+Users" alt="Welcome Banner">
 
   # SUFIANDY ELMY
   ### **Software Engineer - iOS**
