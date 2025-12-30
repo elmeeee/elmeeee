@@ -38,9 +38,9 @@ I am a **Software Engineer** specializing in the **Apple ecosystem** with over *
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elmeeee&theme=default&hide_border=true" alt="elmeeee" />
+  <img src="https://streak-stats.demolab.com/?user=elmeeee" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elmeeee&show_icons=true&count_private=true&include_all_commits=true&custom_title=Total%20Commits&hide=prs,issues,contribs&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="elmeeee commits" />
+  <img src="https://github-readme-stats.vercel.app/api?username=elmeeee&show_icons=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 </p>
