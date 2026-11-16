@@ -19,7 +19,7 @@ iOS Engineer with **6 years** of experience. Building native apps with **Clean A
 
 ### Selected work
 
-**Titipku** · **MyTelkomsel** · **Soothe Senses** · **SāatNya** · **Saldoo**  
+**Titipku** · **MyTelkomsel** · **Soothesenses** · **SāatNya** · **Saldoo** · **Viraah**  
 <sub>Core contributor · Greenfield development · Modular architecture migrations</sub>
 
 ### Toolkit
