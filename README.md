@@ -1,11 +1,13 @@
 <p align="center">
-  <img src="./assets/header.gif" width="100%" alt="Sufiandy Elmy — iOS Engineer. Animated Swift code and blue circuit accents." />
+  <img src="./assets/header.gif" width="100%" alt="Sufiandy Elmy — iOS Engineer. Animated AI orb, neural network, data flows and agent workflow." />
 </p>
 
 <p align="center">
+  <a href="https://elmee.my"><img src="https://img.shields.io/badge/Website-elmee.my-638CFF?style=flat-square" alt="Personal website: elmee.my" /></a>
+  &nbsp;
   <a href="https://linkedin.com/in/elmysf"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   &nbsp;
-  <a href="mailto:elmysufiandy@gmail.com"><img src="https://img.shields.io/badge/Email-303D50?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:hello@elmee.my"><img src="https://img.shields.io/badge/Email-hello%40elmee.my-303D50?style=flat-square" alt="Email hello@elmee.my" /></a>
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=elmeeee&label=Profile+Views&color=303d50&style=flat-square" alt="Profile Views" />
 </p>
@@ -13,7 +15,7 @@
 ### About
 
 iOS Engineer with **6 years** of experience. Building native apps with **Clean Architecture** and **AI-assisted workflows**.  
-🏆 **WWDC ’21 Swift Student Challenge Winner** · Apple Developer Academy Alumnus
+**WWDC ’21 Swift Student Challenge Winner** · Apple Developer Academy Alumnus
 
 ### Selected work
 
