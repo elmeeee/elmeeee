@@ -1,66 +1,42 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=0E76A8&center=true&vCenter=true&width=600&lines=Welcome+to+my+Profile!+%F0%9F%91%8B" alt="Welcome Banner">
-
-  # SUFIANDY ELMY
-  ### **Software Engineer - iOS**
-
-
-  <a href="https://linkedin.com/in/elmysf" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
-  </a>
-  <a href="mailto:elmysufiandy@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
-  </a>
-  
-  <br><br>
-  
-  <img src="https://komarev.com/ghpvc/?username=elmeeee&label=Profile%20Views&color=0e76a8&style=for-the-badge" alt="Profile Views" />
-
-
-  ---
-
-  *"Architecting high-performance mobile ecosystems. Specialist in iOS, Clean Architecture, and End-to-End Product Delivery."*
-</div>
-
-## About Me
-
-I am a **Software Engineer** specializing in the **Apple ecosystem** with over **5 years** of professional experience. I have a proven track record of shipping scale products to millions of active users.
-
-*   **WWDC 2021** Swift Student Challenge Winner.
-*   **Apple Developer Academy** Alumnus.
-*   **Core Contributor:** Titipku, MyTelkomsel, Soothe Senses, SāatNya, and Saldoo.
-*   **Architect:** Led greenfield developments and modular architecture migrations.
-
----
-
-## Tech Stack
-
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="Swift" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="Apple" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="AWS" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="Go" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="40" alt="DigitalOcean" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
+  <img src="./assets/header.gif" width="100%" alt="Sufiandy Elmy — iOS Engineer. Animated Swift code and blue circuit accents." />
 </p>
 
----
+<p align="center">
+  <a href="https://linkedin.com/in/elmysf"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  &nbsp;
+  <a href="mailto:elmysufiandy@gmail.com"><img src="https://img.shields.io/badge/Email-303D50?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=elmeeee&label=Profile+Views&color=303d50&style=flat-square" alt="Profile Views" />
+</p>
+
+### About
+
+iOS Engineer with **6 years** of experience. Building native apps with **Clean Architecture** and **AI-assisted workflows**.  
+🏆 **WWDC ’21 Swift Student Challenge Winner** · Apple Developer Academy Alumnus
+
+### Selected work
+
+**Titipku** · **MyTelkomsel** · **Soothe Senses** · **SāatNya** · **Saldoo**  
+<sub>Core contributor · Greenfield development · Modular architecture migrations</sub>
+
+### Toolkit
+
+<p>
+  <img src="https://skillicons.dev/icons?i=swift,apple,git,github,docker,firebase,aws,go,py,ts,digitalocean,react,nextjs&theme=dark&perline=13" alt="Swift, Apple, Git, GitHub, Docker, Firebase, AWS, Go, Python, TypeScript, DigitalOcean, React and Next.js" />
+</p>
+
+<sub>SwiftUI &nbsp; / &nbsp; UIKit &nbsp; / &nbsp; Swift Concurrency &nbsp; / &nbsp; Combine</sub>
+
+
+### AI & Agents
+
+<p>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square" alt="Claude" />
+  <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=flat-square" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square" alt="Gemini" />
+  <img src="https://img.shields.io/badge/DeepSeek-536AF5?style=flat-square" alt="DeepSeek" />
+  <img src="https://img.shields.io/badge/OpenClaw-303D50?style=flat-square" alt="OpenClaw" />
+</p>
+
+<sub>AI-assisted development · Agent workflows · Automation</sub>
