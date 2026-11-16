@@ -28,7 +28,7 @@ I am a **Software Engineer** specializing in the **Apple ecosystem** with over *
 
 *   **WWDC 2021** Swift Student Challenge Winner.
 *   **Apple Developer Academy** Alumnus.
-*   **Core Contributor:** Titipku, MyTelkomsel, Soothe Senses, Qalbu, and Saldoo.
+*   **Core Contributor:** Titipku, MyTelkomsel, Soothe Senses, SāatNya, and Saldoo.
 *   **Architect:** Led greenfield developments and modular architecture migrations.
 
 ---
